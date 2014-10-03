@@ -1,5 +1,5 @@
 # This file is used by gcl to get repository specific information.
 CODE_REVIEW_SERVER: codereview.appspot.com
 CC_LIST: shanbin@yahoo-inc.com,sriramg@yahoo-inc.com
-VIEW_VC: https://git.corp.yahoo.com/slingstone/rietveld-experimentation
+VIEW_VC: https://github.com/scr/rietveld-experimentation/commit/
 TRY_ON_UPLOAD: False
